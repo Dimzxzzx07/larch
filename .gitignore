@@ -1,0 +1,10 @@
+build/
+*.o
+*.bin
+*.iso
+*.a
+target/
+Cargo.lock
+.vscode/
+.idea/
+*.swp
